@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/adimon/ownCloud'
+let g:netrw_dirhist_2='/home/adimon/ownCloud/Rechnernetze'
+let g:netrw_dirhist_3='/home/adimon/ownCloud/Rechnernetze/socket_4'
+let g:netrw_dirhist_4='/home/adimon/ownCloud/Rechnernetze/socket_4/RESTfulServer'
+let g:netrw_dirhist_5='/home/adimon/ownCloud/Rechnernetze'
+let g:netrw_dirhist_6='/home/adimon/ownCloud/Rechnernetze/socket_4'
+let g:netrw_dirhist_7='/home/adimon/ownCloud/Rechnernetze/socket_4/RESTfulServer'
