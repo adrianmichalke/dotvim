@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/adrianmichalke/workspace/git/projectx/src/api/impl'
+let g:netrw_dirhist_2='/Users/adrianmichalke/workspace/git/projectx/src/operators'
+let g:netrw_dirhist_3='/Users/adrianmichalke/workspace/git/projectx/src/operators/impl'
+let g:netrw_dirhist_4='/Users/adrianmichalke/workspace/git/projectx/src/api/impl'
+let g:netrw_dirhist_5='/Users/adrianmichalke/workspace/git/projectx/src'
+let g:netrw_dirhist_6='/home'
+let g:netrw_dirhist_7='/Users/adrianmichalke/projectx/machineLearning/neural-network/imdb_post_usecase/IMDB_4_software_remapping_test_new_1M_with_header'
